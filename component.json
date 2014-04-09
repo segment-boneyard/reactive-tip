@@ -1,0 +1,8 @@
+{
+  "name": "reactive-tip",
+  "description": "Add tooltips to elements",
+  "scripts": ["index.js"],
+  "dependencies": {
+    "segmentio/tip": "*"
+  }
+}
