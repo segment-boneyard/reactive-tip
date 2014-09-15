@@ -3,6 +3,6 @@
   "description": "Add tooltips to elements",
   "scripts": ["index.js"],
   "dependencies": {
-    "segmentio/tip": "*"
+    "segmentio/tip": "1.1.0"
   }
 }
